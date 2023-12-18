@@ -56,4 +56,4 @@ Developed as a school assignment for the Computer Hardware Engineering course at
 The project was inspired by Onelonecoder's educational videos on building a 3D engine, which provided valuable insights into the fundamentals of 3D graphics programming.
 
 ## Copying
-Certain files such as `stubs.c`, `vectors.S`, `func.c`, and parts of `main.c` are reused from a course lab.
+Certain files such as `stubs.c`, `vectors.S`, `func.c`, and parts of `main.c` are reused from course labs.
