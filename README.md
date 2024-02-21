@@ -1,7 +1,7 @@
 # 3D-engine-for-ChipKIT-Uno32-board
 
 ## Introduction
-This project is a 3D graphics engine tailored for the ChipKIT Uno32 microcontroller board, equipped with the basic ChipKIT I/O shield. It was developed for the `IS1500 Datorteknik och komponenter` course project, where you had to create some sort of interactive application on the chipkit. Note: The program requires the MCB32 toolchain for compilation.
+This project is a 3D graphics engine tailored for the ChipKIT Uno32 microcontroller board, equipped with the basic ChipKIT I/O shield. It was developed for the `IS1500 Datorteknik och komponenter` course project, where you had to create some sort of interactive application on the chipkit. Note: The program requires the MCB32 toolchain for compilation. Video of the finished project: https://youtu.be/JvNljqAP_mc
 
 ## Functions
 The engine can translate objects from 3D space into Cartesian coordinates. It allows for movement and rotation relative to a cube in 3D space, providing a dynamic and interactive experience.
